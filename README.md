@@ -68,6 +68,7 @@ CSCA（Cyber Security & AI Consulting Agent）是一个运行在 Claude Code 上
 ```bash
 git clone https://github.com/你的用户名/网安专家skill.git
 cp -r 网安专家skill/.claude /你的目标项目/
+或者放在.claude/skills/csca目录下
 ```
 
 或者直接在你已有的项目中引用本 Skill。
